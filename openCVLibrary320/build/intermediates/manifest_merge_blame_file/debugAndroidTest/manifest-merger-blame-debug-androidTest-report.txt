@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv.test" >
+4
+5    <uses-sdk
+5-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:5:5-73
+6        android:minSdkVersion="1"
+6-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:5:15-40
+7        android:targetSdkVersion="25" />
+7-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:5:41-70
+8
+9    <instrumentation
+9-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:11:5-15:65
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:13:22-53
+13        android:label="Tests for org.opencv.test"
+13-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:15:22-63
+14        android:targetPackage="org.opencv.test" />
+14-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:12:22-61
+15
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+16-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
+17    <uses-permission android:name="android.permission.FLASHLIGHT" />
+17-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-69
+17-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-66
+18
+19    <uses-feature android:name="android.hardware.camera" />
+19-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-60
+19-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-57
+20    <uses-feature android:name="android.hardware.camera.flash" />
+20-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-66
+20-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-63
+21    <uses-feature android:name="android.hardware.camera.autofocus" />
+21-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-70
+21-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-67
+22
+23    <uses-permission android:name="android.permission.CAMERA" />
+23-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+23-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-62
+24
+25    <uses-feature android:name="android.hardware.camera2.full" />
+25-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-66
+25-->[__tested_artifact__::openCVLibrary320] C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:19-63
+26
+27    <application android:debuggable="true" >
+27-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:7:5-9:19
+27-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:7:18-43
+28        <uses-library android:name="android.test.runner" />
+28-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:8:9-60
+28-->C:\Users\hyeonwoo\Desktop\new jikbang\Android_Application_for_understanding_ASL_using_gesture_recognition\openCVLibrary320\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8567709348378741501.xml:8:23-57
+29    </application>
+30
+31</manifest>
